@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-builder-support
 Version  : 3.6.0
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/apache/maven/maven-builder-support/3.6.0/maven-builder-support-3.6.0.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/maven-builder-support/3.6.0/maven-builder-support-3.6.0.jar
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/maven-builder-support/3.3.9/maven-builder-support-3.3.9.jar
